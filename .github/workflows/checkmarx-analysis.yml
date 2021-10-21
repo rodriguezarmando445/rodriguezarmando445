@@ -37,3 +37,5 @@ jobs:
       uses: github/codeql-action/upload-sarif@v1
       with:
         sarif_file: cx.sarif
+[![CxFlow](https://github.com/rodriguezarmando445/rodriguezarmando445/actions/workflows/checkmarx-analysis.yml/badge.svg?branch=main)](https://github.com/rodriguezarmando445/rodriguezarmando445/actions/workflows/checkmarx-analysis.yml)
+
